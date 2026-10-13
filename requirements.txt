@@ -1,0 +1,3 @@
+# Only stealth_portscan.py needs this (raw SYN packets).
+# portscan.py runs on the standard library alone.
+scapy>=2.5.0
